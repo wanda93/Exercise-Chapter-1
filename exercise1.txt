@@ -1,0 +1,65 @@
+
+* Exercise 1.1 What is the function of the secondary memory in a computer?
+answer : a) Execute all of the computation and logic of the program
+
+
+* Exercise 1.2 What is a program?
+answer : program is a software created by a programming language and runs under the operating system
+
+* Exercise 1.3 What is is the difference between a compiler and an interpreter?
+answer : compiler is a program system that is used as a tool in programming. The software code that performs the translation process (which made ​​programmer) into machine language. while the interpreter is a software that can execute the source code that was written by the programmer and translated into machine language.
+
+
+* Exercise 1.4 Which of the following contains ”machine code”?
+answer : c) Python source file
+
+
+* Exercise 1.5 What is wrong with the following code:
+>>> primt 'Hello world!'
+File "<stdin>", line 1
+primt 'Hello world!'
+ˆ
+SyntaxError: invalid syntax
+>>>
+
+answer : the true is 
+>>> print 'Hello world!'
+wrong writing print
+
+
+* Exercise 1.6 Where in the computer is a variable such as ”X” stored after the following Python
+line finishes?
+x = 123
+answer : b) main memory
+
+
+* Exercise 1.7 What will the following program print out:
+x = 43
+x = x   1
+print x
+answer : d) Error because x = x   1 is not possible mathematically
+
+
+
+* Exercise 1.8 Explain each of the following using an example of a human capability: (1) Central
+processing unit, (2) Main Memory, (3) Secondary Memory, (4) Input Device, and (5) Output
+Device. For example, ”What is the human equivalent to a Central Processing Unit”?
+answer : 
+1) If in humans, the CPU is the human brain. where everything is processed before sending.
+2) RAM memory in humans is that while we can not we keep it permanently. human memory is stored in the first layer of our brain.
+3) Secondary memory (hard drive) if the human is our brain on the fourth layer. according to medical science at the fourth layer of our memories are permanently stored. and can not be lost, unless we remove (memory loss).
+4) on a computer input device for example a keyboard and mouse. in humans are the ears, eyes and nose.
+5) if the output device is a computer monitor or speakers. Another case with humans, the human output device is the statement or answers that arise over what we feel, see, or hear. for example if we smell the odor from the input device (nose), we will process it on our CPU (brain), then create an answer that means the output device.
+
+
+
+* Exercise 1.9 How do you fix a ”Syntax Error”?
+answer : Python can only execute the program only if the program contains a line - command line with the correct syntax. If the program - the program there is a syntax error then the process will stop and display the message - the error message, which became known as syntax errors. Syntax refers to a program structure and rules - rules that play a role in the structure. For example, in the Indonesian language, a sentence should begin with capital letters and end with a dot (.), The sentence will have a syntax error when writing the sentence does not comply with the applicable rules. This is also true in the language
+computer programming.
+
+
+
+
+
+
+
